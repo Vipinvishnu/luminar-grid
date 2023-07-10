@@ -1,0 +1,43 @@
+.nav-items:hover{ 
+   
+    text-decoration: underline blueviolet 2px solid;
+     
+          
+   }
+   .nav-items  a:hover{
+       color:blueviolet;
+   }
+   /* carousel */
+   
+   /* .carousel-item{
+       height: 450px;
+   } */
+   .imageheading{
+       margin-top: -44%;
+   }
+   .carousel-caption{
+       padding: 2px; text-align: justify;
+   }
+   .carousel-item img{
+       filter: brightness(50%);
+   }
+   /* .carousel-inner{
+       z-index: -10;
+   } */
+   #button2{
+    background-color: blueviolet;
+    color: white;
+    border: 3px solid;
+    border-color:blueviolet  ;
+    border-radius: 30px;
+   }
+   #button2:hover{
+    background-color: white;
+    color: blueviolet;
+    
+   }
+   #shadow:hover{
+    transition:0.5s;
+    box-shadow: 0 4px 8px 0 rgb(234, 234, 234), 0 6px 20px 0 rgba(106, 104, 104, 0.45);
+
+   }
